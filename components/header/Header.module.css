@@ -1,5 +1,8 @@
 .container {
   width: 100%;
-  justify-content: left;
-  align-items: center;
+}
+
+.header_container {
+  width: 17vw;
+  float: right;
 }
